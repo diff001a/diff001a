@@ -6,13 +6,3 @@
 - 📝 My Blog: https://diff001a.netlify.app/
 - 📫 My Email: diff001a@gmail.com
 
-## My github status
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a&theme=dracula&langs_count=3&show_icons=true&count_private=true" />
-  </a>
-</p>
